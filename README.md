@@ -1,85 +1,57 @@
-📑 Task 2 Report – Social Media Campaign Performance Tracker
-🔍 Objective
+# 📈 Data Science & Analytics Internship - Task 2  
+### Social Media Campaign Performance Tracker  
 
-The aim of this task was to analyze Facebook Ads campaign data and deliver insights that help businesses evaluate ad effectiveness, understand audience behavior, and optimize future campaigns.
+This project is part of my **Data Science & Analytics Internship with Future Interns**.  
+The goal of this task was to **analyze and visualize the performance of a social media ad campaign** using Facebook Ads data.  
 
-📊 Data Overview
+---
 
-Dataset: facebook.csv (simulated ad performance data)
+## 🔍 About the Task  
+- Track & visualize ad campaign performance.  
+- Identify top-performing ads/posts.  
+- Analyze key digital marketing metrics such as:  
+  - Impressions  
+  - Reach  
+  - Engagement (Likes, Shares, Comments)  
+  - Click-Through Rate (CTR)  
+  - Cost Per Click (CPC)  
+  - Return on Investment (ROI)  
 
-Key Metrics Included:
+---
 
-Impressions
+## 🧰 Tools Used  
+- **Power BI** → for interactive dashboards  
+- **Excel / CSV Data** → for preprocessing and cleaning  
+- **Facebook Ads Dataset** (Kaggle-inspired)  
 
-Reach
+---
 
-Likes, Comments, Shares
+## 📊 Dashboard Overview  
+The interactive dashboard includes:  
+- **Campaign KPI Overview** (CTR, CPC, ROI)  
+- **Engagement Analysis** (Top ads by Likes, Comments, Shares)  
+- **Audience Insights** (Age, Region, Device filters)  
+- **ROI & Budget Summary**  
+- **Recommendations for future campaigns**  
 
-Clicks
+---
 
-Cost Per Click (CPC)
+## 📁 Files in This Repository  
+- `Emma task 2.pbix` → Power BI Dashboard file  
+- `facebook.csv` → Raw campaign dataset used for analysis  
+- `Task2_Report.md` → Written analysis and recommendations  
 
-Click-Through Rate (CTR)
+---
 
-ROI
+## 🎯 Key Insights  
+- Ads with high visual engagement (images & short captions) performed best.  
+- CTR peaked in the **18-24 age group**, suggesting a younger audience preference.  
+- Mobile users had higher engagement compared to desktop users.  
+- ROI was maximized when targeting **region X**, while region Y underperformed.  
 
-📈 Dashboard Highlights (Power BI)
+---
 
-The Power BI dashboard provides:
-
-KPI Overview – quick summary of CTR, CPC, ROI.
-
-Engagement Analysis – ranking ads by Likes, Shares, and Comments.
-
-Audience Insights – filters for Age, Region, and Device.
-
-ROI Summary – profitability by campaign and audience segment.
-
-Interactive Filters – enabling dynamic exploration of campaign data.
-
-🎯 Key Findings
-
-Top-performing ads: Visual-focused ads with short captions had the highest engagement.
-
-CTR insights: Ads targeting the 18–24 age group showed the highest CTR, suggesting strong resonance with younger audiences.
-
-Device performance: Mobile ads drove more clicks and engagement compared to desktop.
-
-Regional ROI: Certain regions delivered higher ROI, while others underperformed and require strategy adjustments.
-
-💡 Recommendations
-
-Prioritize visual-first ad content to increase engagement.
-
-Target younger audiences (18–24) in future campaigns for higher CTR.
-
-Adopt a mobile-first strategy, as mobile users showed stronger interaction.
-
-Reallocate budget toward high-ROI regions and reduce spending in underperforming areas.
-
-Test variations of captions and creatives to further optimize performance.
-
-📌 Deliverable
-
-Interactive Power BI Dashboard (Emma task 2.pbix)
-
-Dataset (facebook.csv)
-
-README Documentation
-
-This Report (Task2_Report.md)
-
-👨‍💻 Prepared by: Anyangwa Emmanuel Atekwana
-🔗 LinkedIn
-
-🔗 GitHub
-
-⚡ Now your repo will have:
-
-README.md (technical overview)
-
-Task2_Report.md (business findings)
-
-facebook.csv (data)
-
-Emma task 2.pbix (dashboard)
+## 🚀 How to Use  
+1. Clone the repository:  
+   ```bash
+   git clone <your-repo-link>
