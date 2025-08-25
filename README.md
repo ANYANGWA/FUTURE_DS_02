@@ -51,5 +51,3 @@ The interactive dashboard includes:
 
 ---
 
-## 🚀 How to Use  
-
